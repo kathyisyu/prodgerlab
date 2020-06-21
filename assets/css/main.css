@@ -2320,6 +2320,7 @@ input, select, textarea {
 			font-weight: 900;
 			margin: 0;
 			color: #7c8081;
+			font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 		}
 
 			#header h1 span {
@@ -2332,6 +2333,7 @@ input, select, textarea {
 			right: 1.5em;
 			text-transform: uppercase;
 			top: 0.75em;
+			font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 		}
 
 			#header nav ul {
@@ -2343,6 +2345,7 @@ input, select, textarea {
 					display: inline-block;
 					margin-left: 1.5em;
 					padding-left: 0;
+					font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 				}
 
 					#header nav ul li > ul {
@@ -3281,10 +3284,12 @@ input, select, textarea {
 
 					#banner .inner header h2 {
 						font-size: 1.5em;
+						font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 					}
 
 					#banner .inner p {
 						text-align: center;
+						font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 					}
 
 					#banner .inner br {
