@@ -134,23 +134,25 @@ input, select, textarea {
 		line-height: 1.75em;
 		margin-bottom: 1em;
 		text-transform: uppercase;
-		font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
 			border: 0;
+			font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 		}
 
 	h2 {
 		font-size: 1.5em;
 		letter-spacing: 0.1em;
+		font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 	}
 
 	h3 {
 		font-size: 1.15em;
 		letter-spacing: 0.025em;
+		font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 	}
 
 	sub {
