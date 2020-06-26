@@ -3448,12 +3448,17 @@ input, select, textarea {
 
 /* Contact */
 
-.row {
-    display: table;
-    width: 100%; /*Optional*/
-    table-layout: fixed; /*Optional*/
-    border-spacing: 10px; /*Optional*/
-}
-.column {
-    display: table-cell;
-}
+	ul.contact {
+		list-style: none;
+		padding: 0;
+	}
+
+		ul.contact > li {
+			display: inline;
+			padding: 0;
+			margin: 1.5em 0 0 0;
+		}
+
+			ul.contact > li:first-child {
+				margin-top: 0;
+			}
