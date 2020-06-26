@@ -3457,7 +3457,7 @@ input, select, textarea {
 		ul.contact > li {
 			float: center;
 			padding: 2em;
-			margin: 0 0 0;
+			margin: 0 0 0 0;
 			display: inline-block;
 		}
 
