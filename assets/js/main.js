@@ -96,8 +96,10 @@
 		}
 
 	// Hidden and Reveal
-		$("#hid-fore").click(function(){
+		$(document).ready(function(){
+			$("#hid-fore").click(function(){
 			$("#reveal-fore").slideToggle(300);
-		})
+			});
+		});
 
 })(jQuery);
