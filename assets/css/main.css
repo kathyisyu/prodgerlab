@@ -143,7 +143,13 @@ input, select, textarea {
 			font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 		}
 
-	h2 {
+	h1 {
+		font-size: 2.0em;
+		letter-spacing: 0.1em;
+		font-family: 'AvenirLTW01-65MediumObl', sans-serif;
+	}
+
+		h2 {
 		font-size: 1.5em;
 		letter-spacing: 0.1em;
 		font-family: 'AvenirLTW01-65MediumObl', sans-serif;
