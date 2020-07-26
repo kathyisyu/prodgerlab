@@ -3489,7 +3489,7 @@ input, select, textarea {
 	display:flex;
 }
 .foreskin {
-	flex: 0 0 65%;
+	flex: 0 0 50%;
 }
 .reservoir{
 	flex: 1;
