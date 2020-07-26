@@ -143,13 +143,7 @@ input, select, textarea {
 			font-family: 'AvenirLTW01-65MediumObl', sans-serif;
 		}
 
-	h1 {
-		font-size: 2.0em;
-		letter-spacing: 0.1em;
-		font-family: 'AvenirLTW01-65MediumObl', sans-serif;
-	}
-
-		h2 {
+	h2 {
 		font-size: 1.5em;
 		letter-spacing: 0.1em;
 		font-family: 'AvenirLTW01-65MediumObl', sans-serif;
@@ -3474,14 +3468,14 @@ input, select, textarea {
 
 
 /* Project Hide and Reveal */
-#hid-fore, #hid-res {
+.hid-fore, .hid-res {
 	text-align:center;
 	margin: 0 auto;
 	display: block;
 	width:500px;
 	height:125px;
 }
-#reveal-fore, #reveal-res {
+.reveal-fore, .reveal-res {
 	background: #fafafa;
 	width: 100%;
 	display: none;
@@ -3491,12 +3485,12 @@ input, select, textarea {
 }
 
 /* Project two columns */
-#split-content{
+.split-content{
 	display:flex;
 }
-#foreskin {
+.foreskin {
 	flex: 0 0 65%;
 }
-#reservoir{
+.reservoir{
 	flex: 1;
 }

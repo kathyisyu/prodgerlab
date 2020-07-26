@@ -97,8 +97,8 @@
 
 	// Hidden and Reveal
 		$(document).ready(function(){
-			$("#hid-fore").click(function(){
-			$("#reveal-fore").slideToggle(300);
+			$(".hid-fore").click(function(){
+			$(".reveal-fore").slideToggle(300);
 			});
 		});
 
