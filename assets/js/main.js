@@ -10,6 +10,8 @@
 		$body = $('body'),
 		$header = $('#header'),
 		$banner = $('#banner');
+	
+		
 
 	// Breakpoints.
 		breakpoints({
@@ -92,5 +94,10 @@
 			});
 
 		}
+
+	// Hidden and Reveal
+		$("#hid-fore").click(function(){
+			$("#reveal-fore").slideToggle(300);
+		})
 
 })(jQuery);

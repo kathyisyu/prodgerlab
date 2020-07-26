@@ -3465,3 +3465,32 @@ input, select, textarea {
 			ul.contact > li:first-child {
 				margin-top: 0;
 			}
+
+
+/* Project Hide and Reveal */
+#hid-fore, #hid-res {
+	text-align:center;
+	margin: 0 auto;
+	display: block;
+	width:500px;
+	height:125px;
+}
+#reveal-fore, #reveal-res {
+	background: #fafafa;
+	width: 100%;
+	display: none;
+	border-radius: 3px;
+	box-shadow: 1px 1px 3px #555;
+	padding: 25px;
+}
+
+/* Project two columns */
+#split-content{
+	display:flex;
+}
+#foreskin {
+	flex: 0 0 65%;
+}
+#reservoir{
+	flex: 1;
+}
