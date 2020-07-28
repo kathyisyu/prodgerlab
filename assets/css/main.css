@@ -2606,6 +2606,7 @@ input, select, textarea {
 		background-repeat: no-repeat;
 		background-size: 25em;
 		padding: 7em 0;
+		background-color: #83d3c9;
 	}
 
 		#main > :last-child {
