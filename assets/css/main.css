@@ -2632,7 +2632,7 @@ input, select, textarea {
 
 	#alternate {
 		padding: 7em 0;
-		background-color: #83d3c9;
+		background-color: #83d3ca8a;
 	}
 
 		#alternate > :last-child {
