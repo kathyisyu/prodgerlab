@@ -3469,12 +3469,21 @@ input, select, textarea {
 
 /* Project Hide and Reveal */
 .hid-fore, .hid-res {
-	text-align:center;
+	text-align: left;
 	margin: 0 auto;
 	display: block;
 	width:500px;
 	height:125px;
 }
+
+p.hid-force{
+	text-align: justify;
+}
+
+p.hid-res{
+	text-align: justify;
+}
+
 .reveal-fore, .reveal-res {
 	background: #fafafa;
 	width: 100%;
